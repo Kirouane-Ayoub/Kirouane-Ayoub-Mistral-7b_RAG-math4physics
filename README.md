@@ -37,7 +37,7 @@
 + Math and Physics Enthusiast Queries
 + Fact-based responses thanks to RAG's retrieval capabilities.
 + Extensive dataset for robust training.
-+ Efficient vector embeddings storage and retrieval.
++ Efficient vector embedding storage and retrieval.
 + User-friendly interface for easy interaction.
 
 
@@ -47,3 +47,7 @@
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+![Screenshot at 2023-10-06 13-39-58](https://github.com/Kirouane-Ayoub/Mistral-7b_RAG-math4physics/assets/99510125/2f62c710-e0e6-4722-9467-2685edd6b574)
+
++ **Developed By Kirouane Ayoub**
