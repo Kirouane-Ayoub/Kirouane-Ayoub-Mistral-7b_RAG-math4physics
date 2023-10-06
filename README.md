@@ -1,4 +1,4 @@
-# Mistral-7b_RAG-math Chatbot
+# Mistral-7b_RAG-math4physics Chatbot
 
 ## Description:
 
