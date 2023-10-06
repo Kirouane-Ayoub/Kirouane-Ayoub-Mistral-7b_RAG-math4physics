@@ -17,9 +17,11 @@
 
 ## Use Cases:
 
-* Students seeking help with math problems or explanations.
-* Educators looking for a tool to assist in teaching complex Math and Physics  concepts.
-* Anyone interested in exploring mathematical concepts and solving math-related queries.
+* Homework and Assignment Assistance
+* Concept Clarification
+* Exam Preparation
+* Research Support
+* Math and Physics Enthusiast Queries
 
 
 ## Technologies Used:
