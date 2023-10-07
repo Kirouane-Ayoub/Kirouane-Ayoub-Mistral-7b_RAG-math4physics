@@ -50,4 +50,29 @@ streamlit run app.py
 
 ![Screenshot at 2023-10-06 13-39-58](https://github.com/Kirouane-Ayoub/Mistral-7b_RAG-math4physics/assets/99510125/2f62c710-e0e6-4722-9467-2685edd6b574)
 
+
+## Troubleshooting : 
+
++ If you see the following error:
+```
+Traceback (most recent call last):
+File "", line 1, in
+File "/transformers/models/auto/auto_factory.py", line 482, in from_pretrained
+config, kwargs = AutoConfig.from_pretrained(
+File "/transformers/models/auto/configuration_auto.py", line 1022, in from_pretrained
+config_class = CONFIG_MAPPING[config_dict["model_type"]]
+File "/transformers/models/auto/configuration_auto.py", line 723, in getitem
+raise KeyError(key)
+KeyError: 'mistral'
+```
+
+**Installing transformers from source should solve the issue:**
+
+```
+pip install git+https://github.com/huggingface/transformers
+```
+
+
+
+
 + **Developed By Kirouane Ayoub**
